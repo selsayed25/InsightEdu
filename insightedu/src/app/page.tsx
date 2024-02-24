@@ -9,6 +9,13 @@ export default function Home() {
             </div>
         </section>
 
+        {/* About */}
+        <section className="grid grid-cols-1 place-items-center" id="about">
+            <div className="text-center text-4xl font-bold py-20">
+                <h1>About Us</h1>
+            </div>
+        </section>
+        
         {/* Reviews */}
         <section >
             <div className="grid grid-cols-1 place-items-center">
