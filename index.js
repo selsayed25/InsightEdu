@@ -1,17 +1,14 @@
-const parse = require('csv-parse')
+const csv = require('csv-parser')
 const fs = require('fs')
+const results = [];
 
-const csvData = [];
-
-fs.createReadStream(__dirname + '/diversity_school.csv')
-    .pipe(
-        parse({
-            delimeter: ','
-        })
-    )
-    .on('data', function (dataRow) {
-        csvData.push(dataRow);
-    })
-    .on('end', function () {
-        console.log(csvData)
-    });
+fs.createReadStream('data/diversity_school.csv')
+  .pipe(csv())
+  .on('data', (data) => results.push(data))
+  .on('end', () => {
+    console.log(results);
+    // [
+    //   { NAME: 'Daffy Duck', AGE: '24' },
+    //   { NAME: 'Bugs Bunny', AGE: '22' }
+    // ]
+  });

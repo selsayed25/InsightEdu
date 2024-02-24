@@ -7,3 +7,14 @@ p {
     padding-left: 80px;
     padding-right: 80px;
 }
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.nav {
+    background-color: #48442F;
+    color: white;
+    border-radius: 10px;
+}
