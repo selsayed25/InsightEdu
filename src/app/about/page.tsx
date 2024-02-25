@@ -5,11 +5,20 @@ import Nav from "../components/nav";
 export default function About() {
     return (
         <main className="overflow-y-hidden m-0 p-0 min-h-screen overflow-hidden">
+            <section className="grid bg-no-repeat bg-contain bg-opaque-50 opaque-20 " style={{
+                backgroundImage: `url('https://scontent-lga3-1.xx.fbcdn.net/v/t1.15752-9/429620811_1210826496561105_8084450748745246719_n.jpg?stp=dst-jpg_s2048x2048&_nc_cat=102&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=JsbuXfAUewwAX_vgzLL&_nc_ht=scontent-lga3-1.xx&oh=03_AdQI1O4-DE41K8tObuXq8D2l_V3XbrZqNLBwo6X-50w7Xg&oe=66024DFA')`,
+                height: "972px",
+                
+            }} >
             <Nav />
             <section className="grid grid-cols-1 place-items-center" id="welcome">
-                <div className=" text- text-6xl font-bold py-64">
-                <h1 className="text-center transition ease-in-out hover:-translate-x-4 hover:cursor-pointer duration-300 ">About Us</h1>
+                {/* <div className=" text- text-6xl font-bold py-64">
+                <h1 className="text-white text-center transition ease-in-out hover:-translate-x-4 hover:cursor-pointer duration-300 ">About Us</h1>
+                </div> */}
+                <div className="text-8xl font-bold">
+                        <h1 className="mb-20 text-white drop-shadow-lg text-center transition ease-in-out hover:-translate-x-4 hover:cursor-pointer duration-300 brightness-100 p-50">About Us</h1>
                 </div>
+            </section>
             </section>
 
             {/* About */}

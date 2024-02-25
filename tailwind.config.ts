@@ -18,6 +18,8 @@ const config: Config = {
         'med-sea' : '#76C479',
         'mint-green' : '#94D777',
         'grass-green' : '#D5F48A',
+        'nicebrown' : '#ac7862',
+        'dnicebrown' : '#8c624f'
       }
 
     },
