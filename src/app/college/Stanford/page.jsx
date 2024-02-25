@@ -32,23 +32,32 @@ export default async function School(collegename) {
   }
     return (
       <main className="overflow-y-hidden m-0 p-0 min-h-screen overflow-hidden">
-            <Nav />
-            <section className="grid grid-cols-1 place-items-center" id="welcome">
-                <div className=" text- text-6xl font-bold py-64">
-                <h1 className="text-center transition ease-in-out hover:-translate-x-4 hover:cursor-pointer duration-300 ">School</h1>
-                </div>
+            <section className="grid grid-cols-1 grid-rows-3 bg-no-repeat bg-contain bg-opaque-50 opaque-20 h-96" style={{
+                backgroundImage: `url('https://doz1futtg6626.cloudfront.net/images/2017/2/1/8202175082_3392eb5be6_o.jpg?width=1024&height=576&mode=crop')`,
+                height: "972px",
+            }} >
+                <Nav/>
+                    <div className="text-8xl font-bold">
+                        <h1 className="mb-20 text-white drop-shadow-lg text-center transition ease-in-out hover:-translate-x-4 hover:cursor-pointer duration-300 brightness-100">Stanford</h1>
+                    </div>
             </section>
 
             {/* Collge Info */}
-            <section className="text-center">
-              <div class="container">
-                <h1 className="text-4xl font-bold">University of Phoenix-Arizona</h1>
-              </div >
-              <div className="" id="">
-                <h1 className="text-4xl font-bold">State: {collegediversity[0].state}</h1>
-              </div>
-              <div className="" id="">
-                <h1 className="text-4xl font-bold">Total Enrollment: {collegediversity[0].enrollment}</h1>
+            <section className="grid grid-cols-4 text-center">
+              <div>
+
+
+                <div class="container">
+                  <h1 className=" text-4xl font-bold">Welcome to Stanford!</h1>
+                </div >
+                <div className="" id="">
+                  <h1 className="text-4xl font-bold">State: California</h1>
+                </div>
+                <div className="" id="">
+                  <h1 className="text-4xl font-bold">Total Enrollment: {collegediversity[0].enrollment}</h1>
+                </div>
+
+
               </div>
             </section>
         </main>

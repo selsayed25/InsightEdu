@@ -5,6 +5,7 @@ import historicaltuition from '../../../public/data/historicaltuition.json';
 import salarypotential from '../../../public/data/salarypotential.json';
 import tuitioncost from '../../../public/data/tuitioncost.json';
 import { promises as fs } from 'fs';
+import Nav from '../components/nav';
 
 export default async function School(collegename) {
     // const file = await fs.readFile(process.cwd() + '../../../public/data/collegediversity.json', 'utf8');

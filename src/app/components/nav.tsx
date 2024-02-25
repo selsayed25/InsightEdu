@@ -14,6 +14,9 @@ export default function Nav() {
                         <div>
                             <ul className="flex space-x-4">
                                 <li>
+                                    <Link href="/forum" className="mr-12 transition ease-in-ease-out duration-300 hover:scale-110">
+                                        Forum
+                                    </Link>
                                     <Link href="/about">
                                         About
                                     </Link>
