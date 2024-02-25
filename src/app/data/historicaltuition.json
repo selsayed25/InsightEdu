@@ -1,0 +1,1622 @@
+[
+    {
+      "type": "All Institutions",
+      "year": "1985-86",
+      "tuition_type": "All Constant",
+      "tuition_cost": 10893
+    },
+    {
+      "type": "All Institutions",
+      "year": "1985-86",
+      "tuition_type": "4 Year Constant",
+      "tuition_cost": 12274
+    },
+    {
+      "type": "All Institutions",
+      "year": "1985-86",
+      "tuition_type": "2 Year Constant",
+      "tuition_cost": 7508
+    },
+    {
+      "type": "All Institutions",
+      "year": "1985-86",
+      "tuition_type": "All Current",
+      "tuition_cost": 4885
+    },
+    {
+      "type": "All Institutions",
+      "year": "1985-86",
+      "tuition_type": "4 Year Current",
+      "tuition_cost": 5504
+    },
+    {
+      "type": "All Institutions",
+      "year": "1985-86",
+      "tuition_type": "2 Year Current",
+      "tuition_cost": 3367
+    },
+    {
+      "type": "All Institutions",
+      "year": "1995-96",
+      "tuition_type": "All Constant",
+      "tuition_cost": 13822
+    },
+    {
+      "type": "All Institutions",
+      "year": "1995-96",
+      "tuition_type": "4 Year Constant",
+      "tuition_cost": 16224
+    },
+    {
+      "type": "All Institutions",
+      "year": "1995-96",
+      "tuition_type": "2 Year Constant",
+      "tuition_cost": 7421
+    },
+    {
+      "type": "All Institutions",
+      "year": "1995-96",
+      "tuition_type": "All Current",
+      "tuition_cost": 8800
+    },
+    {
+      "type": "All Institutions",
+      "year": "1995-96",
+      "tuition_type": "4 Year Current",
+      "tuition_cost": 10330
+    },
+    {
+      "type": "All Institutions",
+      "year": "1995-96",
+      "tuition_type": "2 Year Current",
+      "tuition_cost": 4725
+    },
+    {
+      "type": "All Institutions",
+      "year": "2000-01",
+      "tuition_type": "All Constant",
+      "tuition_cost": 14995
+    },
+    {
+      "type": "All Institutions",
+      "year": "2000-01",
+      "tuition_type": "4 Year Constant",
+      "tuition_cost": 17909
+    },
+    {
+      "type": "All Institutions",
+      "year": "2000-01",
+      "tuition_type": "2 Year Constant",
+      "tuition_cost": 7576
+    },
+    {
+      "type": "All Institutions",
+      "year": "2000-01",
+      "tuition_type": "All Current",
+      "tuition_cost": 10820
+    },
+    {
+      "type": "All Institutions",
+      "year": "2000-01",
+      "tuition_type": "4 Year Current",
+      "tuition_cost": 12922
+    },
+    {
+      "type": "All Institutions",
+      "year": "2000-01",
+      "tuition_type": "2 Year Current",
+      "tuition_cost": 5466
+    },
+    {
+      "type": "All Institutions",
+      "year": "2001-02",
+      "tuition_type": "All Constant",
+      "tuition_cost": 15497
+    },
+    {
+      "type": "All Institutions",
+      "year": "2001-02",
+      "tuition_type": "4 Year Constant",
+      "tuition_cost": 18573
+    },
+    {
+      "type": "All Institutions",
+      "year": "2001-02",
+      "tuition_type": "2 Year Constant",
+      "tuition_cost": 7786
+    },
+    {
+      "type": "All Institutions",
+      "year": "2001-02",
+      "tuition_type": "All Current",
+      "tuition_cost": 11380
+    },
+    {
+      "type": "All Institutions",
+      "year": "2001-02",
+      "tuition_type": "4 Year Current",
+      "tuition_cost": 13639
+    },
+    {
+      "type": "All Institutions",
+      "year": "2001-02",
+      "tuition_type": "2 Year Current",
+      "tuition_cost": 5718
+    },
+    {
+      "type": "All Institutions",
+      "year": "2002-03",
+      "tuition_type": "All Constant",
+      "tuition_cost": 16008
+    },
+    {
+      "type": "All Institutions",
+      "year": "2002-03",
+      "tuition_type": "4 Year Constant",
+      "tuition_cost": 19240
+    },
+    {
+      "type": "All Institutions",
+      "year": "2002-03",
+      "tuition_type": "2 Year Constant",
+      "tuition_cost": 8331
+    },
+    {
+      "type": "All Institutions",
+      "year": "2002-03",
+      "tuition_type": "All Current",
+      "tuition_cost": 12014
+    },
+    {
+      "type": "All Institutions",
+      "year": "2002-03",
+      "tuition_type": "4 Year Current",
+      "tuition_cost": 14439
+    },
+    {
+      "type": "All Institutions",
+      "year": "2002-03",
+      "tuition_type": "2 Year Current",
+      "tuition_cost": 6252
+    },
+    {
+      "type": "All Institutions",
+      "year": "2003-04",
+      "tuition_type": "All Constant",
+      "tuition_cost": 16891
+    },
+    {
+      "type": "All Institutions",
+      "year": "2003-04",
+      "tuition_type": "4 Year Constant",
+      "tuition_cost": 20218
+    },
+    {
+      "type": "All Institutions",
+      "year": "2003-04",
+      "tuition_type": "2 Year Constant",
+      "tuition_cost": 8743
+    },
+    {
+      "type": "All Institutions",
+      "year": "2003-04",
+      "tuition_type": "All Current",
+      "tuition_cost": 12953
+    },
+    {
+      "type": "All Institutions",
+      "year": "2003-04",
+      "tuition_type": "4 Year Current",
+      "tuition_cost": 15505
+    },
+    {
+      "type": "All Institutions",
+      "year": "2003-04",
+      "tuition_type": "2 Year Current",
+      "tuition_cost": 6705
+    },
+    {
+      "type": "All Institutions",
+      "year": "2004-05",
+      "tuition_type": "All Constant",
+      "tuition_cost": 17460
+    },
+    {
+      "type": "All Institutions",
+      "year": "2004-05",
+      "tuition_type": "4 Year Constant",
+      "tuition_cost": 20899
+    },
+    {
+      "type": "All Institutions",
+      "year": "2004-05",
+      "tuition_type": "2 Year Constant",
+      "tuition_cost": 8982
+    },
+    {
+      "type": "All Institutions",
+      "year": "2004-05",
+      "tuition_type": "All Current",
+      "tuition_cost": 13793
+    },
+    {
+      "type": "All Institutions",
+      "year": "2004-05",
+      "tuition_type": "4 Year Current",
+      "tuition_cost": 16510
+    },
+    {
+      "type": "All Institutions",
+      "year": "2004-05",
+      "tuition_type": "2 Year Current",
+      "tuition_cost": 7095
+    },
+    {
+      "type": "All Institutions",
+      "year": "2005-06",
+      "tuition_type": "All Constant",
+      "tuition_cost": 17845
+    },
+    {
+      "type": "All Institutions",
+      "year": "2005-06",
+      "tuition_type": "4 Year Constant",
+      "tuition_cost": 21281
+    },
+    {
+      "type": "All Institutions",
+      "year": "2005-06",
+      "tuition_type": "2 Year Constant",
+      "tuition_cost": 8824
+    },
+    {
+      "type": "All Institutions",
+      "year": "2005-06",
+      "tuition_type": "All Current",
+      "tuition_cost": 14634
+    },
+    {
+      "type": "All Institutions",
+      "year": "2005-06",
+      "tuition_type": "4 Year Current",
+      "tuition_cost": 17451
+    },
+    {
+      "type": "All Institutions",
+      "year": "2005-06",
+      "tuition_type": "2 Year Current",
+      "tuition_cost": 7236
+    },
+    {
+      "type": "All Institutions",
+      "year": "2006-07",
+      "tuition_type": "All Constant",
+      "tuition_cost": 18404
+    },
+    {
+      "type": "All Institutions",
+      "year": "2006-07",
+      "tuition_type": "4 Year Constant",
+      "tuition_cost": 21956
+    },
+    {
+      "type": "All Institutions",
+      "year": "2006-07",
+      "tuition_type": "2 Year Constant",
+      "tuition_cost": 8874
+    },
+    {
+      "type": "All Institutions",
+      "year": "2006-07",
+      "tuition_type": "All Current",
+      "tuition_cost": 15483
+    },
+    {
+      "type": "All Institutions",
+      "year": "2006-07",
+      "tuition_type": "4 Year Current",
+      "tuition_cost": 18471
+    },
+    {
+      "type": "All Institutions",
+      "year": "2006-07",
+      "tuition_type": "2 Year Current",
+      "tuition_cost": 7466
+    },
+    {
+      "type": "All Institutions",
+      "year": "2007-08",
+      "tuition_type": "All Constant",
+      "tuition_cost": 18604
+    },
+    {
+      "type": "All Institutions",
+      "year": "2007-08",
+      "tuition_type": "4 Year Constant",
+      "tuition_cost": 22194
+    },
+    {
+      "type": "All Institutions",
+      "year": "2007-08",
+      "tuition_type": "2 Year Constant",
+      "tuition_cost": 8754
+    },
+    {
+      "type": "All Institutions",
+      "year": "2007-08",
+      "tuition_type": "All Current",
+      "tuition_cost": 16231
+    },
+    {
+      "type": "All Institutions",
+      "year": "2007-08",
+      "tuition_type": "4 Year Current",
+      "tuition_cost": 19363
+    },
+    {
+      "type": "All Institutions",
+      "year": "2007-08",
+      "tuition_type": "2 Year Current",
+      "tuition_cost": 7637
+    },
+    {
+      "type": "All Institutions",
+      "year": "2008-09",
+      "tuition_type": "All Constant",
+      "tuition_cost": 19321
+    },
+    {
+      "type": "All Institutions",
+      "year": "2008-09",
+      "tuition_type": "4 Year Constant",
+      "tuition_cost": 23071
+    },
+    {
+      "type": "All Institutions",
+      "year": "2008-09",
+      "tuition_type": "2 Year Constant",
+      "tuition_cost": 9312
+    },
+    {
+      "type": "All Institutions",
+      "year": "2008-09",
+      "tuition_type": "All Current",
+      "tuition_cost": 17092
+    },
+    {
+      "type": "All Institutions",
+      "year": "2008-09",
+      "tuition_type": "4 Year Current",
+      "tuition_cost": 20409
+    },
+    {
+      "type": "All Institutions",
+      "year": "2008-09",
+      "tuition_type": "2 Year Current",
+      "tuition_cost": 8238
+    },
+    {
+      "type": "All Institutions",
+      "year": "2009-10",
+      "tuition_type": "All Constant",
+      "tuition_cost": 19761
+    },
+    {
+      "type": "All Institutions",
+      "year": "2009-10",
+      "tuition_type": "4 Year Constant",
+      "tuition_cost": 23652
+    },
+    {
+      "type": "All Institutions",
+      "year": "2009-10",
+      "tuition_type": "2 Year Constant",
+      "tuition_cost": 9562
+    },
+    {
+      "type": "All Institutions",
+      "year": "2009-10",
+      "tuition_type": "All Current",
+      "tuition_cost": 17650
+    },
+    {
+      "type": "All Institutions",
+      "year": "2009-10",
+      "tuition_type": "4 Year Current",
+      "tuition_cost": 21126
+    },
+    {
+      "type": "All Institutions",
+      "year": "2009-10",
+      "tuition_type": "2 Year Current",
+      "tuition_cost": 8541
+    },
+    {
+      "type": "All Institutions",
+      "year": "2010-11",
+      "tuition_type": "All Constant",
+      "tuition_cost": 20278
+    },
+    {
+      "type": "All Institutions",
+      "year": "2010-11",
+      "tuition_type": "4 Year Constant",
+      "tuition_cost": 24227
+    },
+    {
+      "type": "All Institutions",
+      "year": "2010-11",
+      "tuition_type": "2 Year Constant",
+      "tuition_cost": 9733
+    },
+    {
+      "type": "All Institutions",
+      "year": "2010-11",
+      "tuition_type": "All Current",
+      "tuition_cost": 18475
+    },
+    {
+      "type": "All Institutions",
+      "year": "2010-11",
+      "tuition_type": "4 Year Current",
+      "tuition_cost": 22074
+    },
+    {
+      "type": "All Institutions",
+      "year": "2010-11",
+      "tuition_type": "2 Year Current",
+      "tuition_cost": 8868
+    },
+    {
+      "type": "All Institutions",
+      "year": "2011-12",
+      "tuition_type": "All Constant",
+      "tuition_cost": 20688
+    },
+    {
+      "type": "All Institutions",
+      "year": "2011-12",
+      "tuition_type": "4 Year Constant",
+      "tuition_cost": 24537
+    },
+    {
+      "type": "All Institutions",
+      "year": "2011-12",
+      "tuition_type": "2 Year Constant",
+      "tuition_cost": 9966
+    },
+    {
+      "type": "All Institutions",
+      "year": "2011-12",
+      "tuition_type": "All Current",
+      "tuition_cost": 19401
+    },
+    {
+      "type": "All Institutions",
+      "year": "2011-12",
+      "tuition_type": "4 Year Current",
+      "tuition_cost": 23011
+    },
+    {
+      "type": "All Institutions",
+      "year": "2011-12",
+      "tuition_type": "2 Year Current",
+      "tuition_cost": 9347
+    },
+    {
+      "type": "All Institutions",
+      "year": "2012-13",
+      "tuition_type": "All Constant",
+      "tuition_cost": 21222
+    },
+    {
+      "type": "All Institutions",
+      "year": "2012-13",
+      "tuition_type": "4 Year Constant",
+      "tuition_cost": 25037
+    },
+    {
+      "type": "All Institutions",
+      "year": "2012-13",
+      "tuition_type": "2 Year Constant",
+      "tuition_cost": 10041
+    },
+    {
+      "type": "All Institutions",
+      "year": "2012-13",
+      "tuition_type": "All Current",
+      "tuition_cost": 20233
+    },
+    {
+      "type": "All Institutions",
+      "year": "2012-13",
+      "tuition_type": "4 Year Current",
+      "tuition_cost": 23871
+    },
+    {
+      "type": "All Institutions",
+      "year": "2012-13",
+      "tuition_type": "2 Year Current",
+      "tuition_cost": 9573
+    },
+    {
+      "type": "All Institutions",
+      "year": "2013-14",
+      "tuition_type": "All Constant",
+      "tuition_cost": 21682
+    },
+    {
+      "type": "All Institutions",
+      "year": "2013-14",
+      "tuition_type": "4 Year Constant",
+      "tuition_cost": 25509
+    },
+    {
+      "type": "All Institutions",
+      "year": "2013-14",
+      "tuition_type": "2 Year Constant",
+      "tuition_cost": 10215
+    },
+    {
+      "type": "All Institutions",
+      "year": "2013-14",
+      "tuition_type": "All Current",
+      "tuition_cost": 20995
+    },
+    {
+      "type": "All Institutions",
+      "year": "2013-14",
+      "tuition_type": "4 Year Current",
+      "tuition_cost": 24701
+    },
+    {
+      "type": "All Institutions",
+      "year": "2013-14",
+      "tuition_type": "2 Year Current",
+      "tuition_cost": 9891
+    },
+    {
+      "type": "All Institutions",
+      "year": "2014-15",
+      "tuition_type": "All Constant",
+      "tuition_cost": 22278
+    },
+    {
+      "type": "All Institutions",
+      "year": "2014-15",
+      "tuition_type": "4 Year Constant",
+      "tuition_cost": 26051
+    },
+    {
+      "type": "All Institutions",
+      "year": "2014-15",
+      "tuition_type": "2 Year Constant",
+      "tuition_cost": 10409
+    },
+    {
+      "type": "All Institutions",
+      "year": "2014-15",
+      "tuition_type": "All Current",
+      "tuition_cost": 21729
+    },
+    {
+      "type": "All Institutions",
+      "year": "2014-15",
+      "tuition_type": "4 Year Current",
+      "tuition_cost": 25409
+    },
+    {
+      "type": "All Institutions",
+      "year": "2014-15",
+      "tuition_type": "2 Year Current",
+      "tuition_cost": 10153
+    },
+    {
+      "type": "All Institutions",
+      "year": "2015-16",
+      "tuition_type": "All Constant",
+      "tuition_cost": 22852
+    },
+    {
+      "type": "All Institutions",
+      "year": "2015-16",
+      "tuition_type": "4 Year Constant",
+      "tuition_cost": 26613
+    },
+    {
+      "type": "All Institutions",
+      "year": "2015-16",
+      "tuition_type": "2 Year Constant",
+      "tuition_cost": 10599
+    },
+    {
+      "type": "All Institutions",
+      "year": "2015-16",
+      "tuition_type": "All Current",
+      "tuition_cost": 22439
+    },
+    {
+      "type": "All Institutions",
+      "year": "2015-16",
+      "tuition_type": "4 Year Current",
+      "tuition_cost": 26132
+    },
+    {
+      "type": "All Institutions",
+      "year": "2015-16",
+      "tuition_type": "2 Year Current",
+      "tuition_cost": 10407
+    },
+    {
+      "type": "All Institutions",
+      "year": "2016-17",
+      "tuition_type": "All Constant",
+      "tuition_cost": 23091
+    },
+    {
+      "type": "All Institutions",
+      "year": "2016-17",
+      "tuition_type": "4 Year Constant",
+      "tuition_cost": 26593
+    },
+    {
+      "type": "All Institutions",
+      "year": "2016-17",
+      "tuition_type": "2 Year Constant",
+      "tuition_cost": 10598
+    },
+    {
+      "type": "All Institutions",
+      "year": "2016-17",
+      "tuition_type": "All Current",
+      "tuition_cost": 23091
+    },
+    {
+      "type": "All Institutions",
+      "year": "2016-17",
+      "tuition_type": "4 Year Current",
+      "tuition_cost": 26593
+    },
+    {
+      "type": "All Institutions",
+      "year": "2016-17",
+      "tuition_type": "2 Year Current",
+      "tuition_cost": 10598
+    },
+    {
+      "type": "Public",
+      "year": "1985-86",
+      "tuition_type": "All Constant",
+      "tuition_cost": 7964
+    },
+    {
+      "type": "Public",
+      "year": "1985-86",
+      "tuition_type": "4 Year Constant",
+      "tuition_cost": 8604
+    },
+    {
+      "type": "Public",
+      "year": "1985-86",
+      "tuition_type": "2 Year Constant",
+      "tuition_cost": 6647
+    },
+    {
+      "type": "Public",
+      "year": "1985-86",
+      "tuition_type": "All Current",
+      "tuition_cost": 3571
+    },
+    {
+      "type": "Public",
+      "year": "1985-86",
+      "tuition_type": "4 Year Current",
+      "tuition_cost": 3859
+    },
+    {
+      "type": "Public",
+      "year": "1985-86",
+      "tuition_type": "2 Year Current",
+      "tuition_cost": 2981
+    },
+    {
+      "type": "Public",
+      "year": "1995-96",
+      "tuition_type": "All Constant",
+      "tuition_cost": 9825
+    },
+    {
+      "type": "Public",
+      "year": "1995-96",
+      "tuition_type": "4 Year Constant",
+      "tuition_cost": 11016
+    },
+    {
+      "type": "Public",
+      "year": "1995-96",
+      "tuition_type": "2 Year Constant",
+      "tuition_cost": 6623
+    },
+    {
+      "type": "Public",
+      "year": "1995-96",
+      "tuition_type": "All Current",
+      "tuition_cost": 6256
+    },
+    {
+      "type": "Public",
+      "year": "1995-96",
+      "tuition_type": "4 Year Current",
+      "tuition_cost": 7014
+    },
+    {
+      "type": "Public",
+      "year": "1995-96",
+      "tuition_type": "2 Year Current",
+      "tuition_cost": 4217
+    },
+    {
+      "type": "Public",
+      "year": "2000-01",
+      "tuition_type": "All Constant",
+      "tuition_cost": 10514
+    },
+    {
+      "type": "Public",
+      "year": "2000-01",
+      "tuition_type": "4 Year Constant",
+      "tuition_cost": 11993
+    },
+    {
+      "type": "Public",
+      "year": "2000-01",
+      "tuition_type": "2 Year Constant",
+      "tuition_cost": 6706
+    },
+    {
+      "type": "Public",
+      "year": "2000-01",
+      "tuition_type": "All Current",
+      "tuition_cost": 7586
+    },
+    {
+      "type": "Public",
+      "year": "2000-01",
+      "tuition_type": "4 Year Current",
+      "tuition_cost": 8653
+    },
+    {
+      "type": "Public",
+      "year": "2000-01",
+      "tuition_type": "2 Year Current",
+      "tuition_cost": 4839
+    },
+    {
+      "type": "Public",
+      "year": "2001-02",
+      "tuition_type": "All Constant",
+      "tuition_cost": 10924
+    },
+    {
+      "type": "Public",
+      "year": "2001-02",
+      "tuition_type": "4 Year Constant",
+      "tuition_cost": 12523
+    },
+    {
+      "type": "Public",
+      "year": "2001-02",
+      "tuition_type": "2 Year Constant",
+      "tuition_cost": 6996
+    },
+    {
+      "type": "Public",
+      "year": "2001-02",
+      "tuition_type": "All Current",
+      "tuition_cost": 8022
+    },
+    {
+      "type": "Public",
+      "year": "2001-02",
+      "tuition_type": "4 Year Current",
+      "tuition_cost": 9196
+    },
+    {
+      "type": "Public",
+      "year": "2001-02",
+      "tuition_type": "2 Year Current",
+      "tuition_cost": 5137
+    },
+    {
+      "type": "Public",
+      "year": "2002-03",
+      "tuition_type": "All Constant",
+      "tuition_cost": 11328
+    },
+    {
+      "type": "Public",
+      "year": "2002-03",
+      "tuition_type": "4 Year Constant",
+      "tuition_cost": 13042
+    },
+    {
+      "type": "Public",
+      "year": "2002-03",
+      "tuition_type": "2 Year Constant",
+      "tuition_cost": 7464
+    },
+    {
+      "type": "Public",
+      "year": "2002-03",
+      "tuition_type": "All Current",
+      "tuition_cost": 8502
+    },
+    {
+      "type": "Public",
+      "year": "2002-03",
+      "tuition_type": "4 Year Current",
+      "tuition_cost": 9787
+    },
+    {
+      "type": "Public",
+      "year": "2002-03",
+      "tuition_type": "2 Year Current",
+      "tuition_cost": 5601
+    },
+    {
+      "type": "Public",
+      "year": "2003-04",
+      "tuition_type": "All Constant",
+      "tuition_cost": 12057
+    },
+    {
+      "type": "Public",
+      "year": "2003-04",
+      "tuition_type": "4 Year Constant",
+      "tuition_cost": 13919
+    },
+    {
+      "type": "Public",
+      "year": "2003-04",
+      "tuition_type": "2 Year Constant",
+      "tuition_cost": 7840
+    },
+    {
+      "type": "Public",
+      "year": "2003-04",
+      "tuition_type": "All Current",
+      "tuition_cost": 9247
+    },
+    {
+      "type": "Public",
+      "year": "2003-04",
+      "tuition_type": "4 Year Current",
+      "tuition_cost": 10674
+    },
+    {
+      "type": "Public",
+      "year": "2003-04",
+      "tuition_type": "2 Year Current",
+      "tuition_cost": 6012
+    },
+    {
+      "type": "Public",
+      "year": "2004-05",
+      "tuition_type": "All Constant",
+      "tuition_cost": 12487
+    },
+    {
+      "type": "Public",
+      "year": "2004-05",
+      "tuition_type": "4 Year Constant",
+      "tuition_cost": 14463
+    },
+    {
+      "type": "Public",
+      "year": "2004-05",
+      "tuition_type": "2 Year Constant",
+      "tuition_cost": 8070
+    },
+    {
+      "type": "Public",
+      "year": "2004-05",
+      "tuition_type": "All Current",
+      "tuition_cost": 9864
+    },
+    {
+      "type": "Public",
+      "year": "2004-05",
+      "tuition_type": "4 Year Current",
+      "tuition_cost": 11426
+    },
+    {
+      "type": "Public",
+      "year": "2004-05",
+      "tuition_type": "2 Year Current",
+      "tuition_cost": 6375
+    },
+    {
+      "type": "Public",
+      "year": "2005-06",
+      "tuition_type": "All Constant",
+      "tuition_cost": 12748
+    },
+    {
+      "type": "Public",
+      "year": "2005-06",
+      "tuition_type": "4 Year Constant",
+      "tuition_cost": 14765
+    },
+    {
+      "type": "Public",
+      "year": "2005-06",
+      "tuition_type": "2 Year Constant",
+      "tuition_cost": 7916
+    },
+    {
+      "type": "Public",
+      "year": "2005-06",
+      "tuition_type": "All Current",
+      "tuition_cost": 10454
+    },
+    {
+      "type": "Public",
+      "year": "2005-06",
+      "tuition_type": "4 Year Current",
+      "tuition_cost": 12108
+    },
+    {
+      "type": "Public",
+      "year": "2005-06",
+      "tuition_type": "2 Year Current",
+      "tuition_cost": 6492
+    },
+    {
+      "type": "Public",
+      "year": "2012-13",
+      "tuition_type": "All Constant",
+      "tuition_cost": 15755
+    },
+    {
+      "type": "Public",
+      "year": "2012-13",
+      "tuition_type": "4 Year Constant",
+      "tuition_cost": 18328
+    },
+    {
+      "type": "Public",
+      "year": "2012-13",
+      "tuition_type": "2 Year Constant",
+      "tuition_cost": 9363
+    },
+    {
+      "type": "Public",
+      "year": "2012-13",
+      "tuition_type": "All Current",
+      "tuition_cost": 15021
+    },
+    {
+      "type": "Public",
+      "year": "2012-13",
+      "tuition_type": "4 Year Current",
+      "tuition_cost": 17475
+    },
+    {
+      "type": "Public",
+      "year": "2012-13",
+      "tuition_type": "2 Year Current",
+      "tuition_cost": 8927
+    },
+    {
+      "type": "Public",
+      "year": "2013-14",
+      "tuition_type": "All Constant",
+      "tuition_cost": 16140
+    },
+    {
+      "type": "Public",
+      "year": "2013-14",
+      "tuition_type": "4 Year Constant",
+      "tuition_cost": 18692
+    },
+    {
+      "type": "Public",
+      "year": "2013-14",
+      "tuition_type": "2 Year Constant",
+      "tuition_cost": 9587
+    },
+    {
+      "type": "Public",
+      "year": "2013-14",
+      "tuition_type": "All Current",
+      "tuition_cost": 15628
+    },
+    {
+      "type": "Public",
+      "year": "2013-14",
+      "tuition_type": "4 Year Current",
+      "tuition_cost": 18100
+    },
+    {
+      "type": "Public",
+      "year": "2013-14",
+      "tuition_type": "2 Year Current",
+      "tuition_cost": 9283
+    },
+    {
+      "type": "Public",
+      "year": "2014-15",
+      "tuition_type": "All Constant",
+      "tuition_cost": 16597
+    },
+    {
+      "type": "Public",
+      "year": "2014-15",
+      "tuition_type": "4 Year Constant",
+      "tuition_cost": 19102
+    },
+    {
+      "type": "Public",
+      "year": "2014-15",
+      "tuition_type": "2 Year Constant",
+      "tuition_cost": 9828
+    },
+    {
+      "type": "Public",
+      "year": "2014-15",
+      "tuition_type": "All Current",
+      "tuition_cost": 16188
+    },
+    {
+      "type": "Public",
+      "year": "2014-15",
+      "tuition_type": "4 Year Current",
+      "tuition_cost": 18632
+    },
+    {
+      "type": "Public",
+      "year": "2014-15",
+      "tuition_type": "2 Year Current",
+      "tuition_cost": 9585
+    },
+    {
+      "type": "Public",
+      "year": "2015-16",
+      "tuition_type": "All Constant",
+      "tuition_cost": 17075
+    },
+    {
+      "type": "Public",
+      "year": "2015-16",
+      "tuition_type": "4 Year Constant",
+      "tuition_cost": 19558
+    },
+    {
+      "type": "Public",
+      "year": "2015-16",
+      "tuition_type": "2 Year Constant",
+      "tuition_cost": 10097
+    },
+    {
+      "type": "Public",
+      "year": "2015-16",
+      "tuition_type": "All Current",
+      "tuition_cost": 16766
+    },
+    {
+      "type": "Public",
+      "year": "2015-16",
+      "tuition_type": "4 Year Current",
+      "tuition_cost": 19204
+    },
+    {
+      "type": "Public",
+      "year": "2015-16",
+      "tuition_type": "2 Year Current",
+      "tuition_cost": 9914
+    },
+    {
+      "type": "Public",
+      "year": "2016-17",
+      "tuition_type": "All Constant",
+      "tuition_cost": 17237
+    },
+    {
+      "type": "Public",
+      "year": "2016-17",
+      "tuition_type": "4 Year Constant",
+      "tuition_cost": 19488
+    },
+    {
+      "type": "Public",
+      "year": "2016-17",
+      "tuition_type": "2 Year Constant",
+      "tuition_cost": 10091
+    },
+    {
+      "type": "Public",
+      "year": "2016-17",
+      "tuition_type": "All Current",
+      "tuition_cost": 17237
+    },
+    {
+      "type": "Public",
+      "year": "2016-17",
+      "tuition_type": "4 Year Current",
+      "tuition_cost": 19488
+    },
+    {
+      "type": "Public",
+      "year": "2016-17",
+      "tuition_type": "2 Year Current",
+      "tuition_cost": 10091
+    },
+    {
+      "type": "Private",
+      "year": "1985-86",
+      "tuition_type": "All Constant",
+      "tuition_cost": 19812
+    },
+    {
+      "type": "Private",
+      "year": "1985-86",
+      "tuition_type": "4 Year Constant",
+      "tuition_cost": 20578
+    },
+    {
+      "type": "Private",
+      "year": "1985-86",
+      "tuition_type": "2 Year Constant",
+      "tuition_cost": 14521
+    },
+    {
+      "type": "Private",
+      "year": "1985-86",
+      "tuition_type": "All Current",
+      "tuition_cost": 8885
+    },
+    {
+      "type": "Private",
+      "year": "1985-86",
+      "tuition_type": "4 Year Current",
+      "tuition_cost": 9228
+    },
+    {
+      "type": "Private",
+      "year": "1985-86",
+      "tuition_type": "2 Year Current",
+      "tuition_cost": 6512
+    },
+    {
+      "type": "Private",
+      "year": "1995-96",
+      "tuition_type": "All Constant",
+      "tuition_cost": 27027
+    },
+    {
+      "type": "Private",
+      "year": "1995-96",
+      "tuition_type": "4 Year Constant",
+      "tuition_cost": 27661
+    },
+    {
+      "type": "Private",
+      "year": "1995-96",
+      "tuition_type": "2 Year Constant",
+      "tuition_cost": 18161
+    },
+    {
+      "type": "Private",
+      "year": "1995-96",
+      "tuition_type": "All Current",
+      "tuition_cost": 17208
+    },
+    {
+      "type": "Private",
+      "year": "1995-96",
+      "tuition_type": "4 Year Current",
+      "tuition_cost": 17612
+    },
+    {
+      "type": "Private",
+      "year": "1995-96",
+      "tuition_type": "2 Year Current",
+      "tuition_cost": 11563
+    },
+    {
+      "type": "Private",
+      "year": "2000-01",
+      "tuition_type": "All Constant",
+      "tuition_cost": 29621
+    },
+    {
+      "type": "Private",
+      "year": "2000-01",
+      "tuition_type": "4 Year Constant",
+      "tuition_cost": 30290
+    },
+    {
+      "type": "Private",
+      "year": "2000-01",
+      "tuition_type": "2 Year Constant",
+      "tuition_cost": 20660
+    },
+    {
+      "type": "Private",
+      "year": "2000-01",
+      "tuition_type": "All Current",
+      "tuition_cost": 21373
+    },
+    {
+      "type": "Private",
+      "year": "2000-01",
+      "tuition_type": "4 Year Current",
+      "tuition_cost": 21856
+    },
+    {
+      "type": "Private",
+      "year": "2000-01",
+      "tuition_type": "2 Year Current",
+      "tuition_cost": 14907
+    },
+    {
+      "type": "Private",
+      "year": "2001-02",
+      "tuition_type": "All Constant",
+      "tuition_cost": 30522
+    },
+    {
+      "type": "Private",
+      "year": "2001-02",
+      "tuition_type": "4 Year Constant",
+      "tuition_cost": 31179
+    },
+    {
+      "type": "Private",
+      "year": "2001-02",
+      "tuition_type": "2 Year Constant",
+      "tuition_cost": 21550
+    },
+    {
+      "type": "Private",
+      "year": "2001-02",
+      "tuition_type": "All Current",
+      "tuition_cost": 22413
+    },
+    {
+      "type": "Private",
+      "year": "2001-02",
+      "tuition_type": "4 Year Current",
+      "tuition_cost": 22896
+    },
+    {
+      "type": "Private",
+      "year": "2001-02",
+      "tuition_type": "2 Year Current",
+      "tuition_cost": 15825
+    },
+    {
+      "type": "Private",
+      "year": "2002-03",
+      "tuition_type": "All Constant",
+      "tuition_cost": 31101
+    },
+    {
+      "type": "Private",
+      "year": "2002-03",
+      "tuition_type": "4 Year Constant",
+      "tuition_cost": 31696
+    },
+    {
+      "type": "Private",
+      "year": "2002-03",
+      "tuition_type": "2 Year Constant",
+      "tuition_cost": 23656
+    },
+    {
+      "type": "Private",
+      "year": "2002-03",
+      "tuition_type": "All Current",
+      "tuition_cost": 23340
+    },
+    {
+      "type": "Private",
+      "year": "2002-03",
+      "tuition_type": "4 Year Current",
+      "tuition_cost": 23787
+    },
+    {
+      "type": "Private",
+      "year": "2002-03",
+      "tuition_type": "2 Year Current",
+      "tuition_cost": 17753
+    },
+    {
+      "type": "Private",
+      "year": "2003-04",
+      "tuition_type": "All Constant",
+      "tuition_cost": 32109
+    },
+    {
+      "type": "Private",
+      "year": "2003-04",
+      "tuition_type": "4 Year Constant",
+      "tuition_cost": 32690
+    },
+    {
+      "type": "Private",
+      "year": "2003-04",
+      "tuition_type": "2 Year Constant",
+      "tuition_cost": 25503
+    },
+    {
+      "type": "Private",
+      "year": "2003-04",
+      "tuition_type": "All Current",
+      "tuition_cost": 24624
+    },
+    {
+      "type": "Private",
+      "year": "2003-04",
+      "tuition_type": "4 Year Current",
+      "tuition_cost": 25070
+    },
+    {
+      "type": "Private",
+      "year": "2003-04",
+      "tuition_type": "2 Year Current",
+      "tuition_cost": 19558
+    },
+    {
+      "type": "Private",
+      "year": "2004-05",
+      "tuition_type": "All Constant",
+      "tuition_cost": 32680
+    },
+    {
+      "type": "Private",
+      "year": "2004-05",
+      "tuition_type": "4 Year Constant",
+      "tuition_cost": 33241
+    },
+    {
+      "type": "Private",
+      "year": "2004-05",
+      "tuition_type": "2 Year Constant",
+      "tuition_cost": 25694
+    },
+    {
+      "type": "Private",
+      "year": "2004-05",
+      "tuition_type": "All Current",
+      "tuition_cost": 25817
+    },
+    {
+      "type": "Private",
+      "year": "2004-05",
+      "tuition_type": "4 Year Current",
+      "tuition_cost": 26260
+    },
+    {
+      "type": "Private",
+      "year": "2004-05",
+      "tuition_type": "2 Year Current",
+      "tuition_cost": 20297
+    },
+    {
+      "type": "Private",
+      "year": "2005-06",
+      "tuition_type": "All Constant",
+      "tuition_cost": 32812
+    },
+    {
+      "type": "Private",
+      "year": "2005-06",
+      "tuition_type": "4 Year Constant",
+      "tuition_cost": 33330
+    },
+    {
+      "type": "Private",
+      "year": "2005-06",
+      "tuition_type": "2 Year Constant",
+      "tuition_cost": 26101
+    },
+    {
+      "type": "Private",
+      "year": "2005-06",
+      "tuition_type": "All Current",
+      "tuition_cost": 26908
+    },
+    {
+      "type": "Private",
+      "year": "2005-06",
+      "tuition_type": "4 Year Current",
+      "tuition_cost": 27333
+    },
+    {
+      "type": "Private",
+      "year": "2005-06",
+      "tuition_type": "2 Year Current",
+      "tuition_cost": 21404
+    },
+    {
+      "type": "Private",
+      "year": "2009-10",
+      "tuition_type": "All Constant",
+      "tuition_cost": 35089
+    },
+    {
+      "type": "Private",
+      "year": "2009-10",
+      "tuition_type": "4 Year Constant",
+      "tuition_cost": 35655
+    },
+    {
+      "type": "Private",
+      "year": "2009-10",
+      "tuition_type": "2 Year Constant",
+      "tuition_cost": 27389
+    },
+    {
+      "type": "Private",
+      "year": "2009-10",
+      "tuition_type": "All Current",
+      "tuition_cost": 31341
+    },
+    {
+      "type": "Private",
+      "year": "2009-10",
+      "tuition_type": "4 Year Current",
+      "tuition_cost": 31847
+    },
+    {
+      "type": "Private",
+      "year": "2009-10",
+      "tuition_type": "2 Year Current",
+      "tuition_cost": 24463
+    },
+    {
+      "type": "Private",
+      "year": "2013-14",
+      "tuition_type": "All Constant",
+      "tuition_cost": 37173
+    },
+    {
+      "type": "Private",
+      "year": "2013-14",
+      "tuition_type": "4 Year Constant",
+      "tuition_cost": 37797
+    },
+    {
+      "type": "Private",
+      "year": "2013-14",
+      "tuition_type": "2 Year Constant",
+      "tuition_cost": 24652
+    },
+    {
+      "type": "Private",
+      "year": "2013-14",
+      "tuition_type": "All Current",
+      "tuition_cost": 35995
+    },
+    {
+      "type": "Private",
+      "year": "2013-14",
+      "tuition_type": "4 Year Current",
+      "tuition_cost": 36599
+    },
+    {
+      "type": "Private",
+      "year": "2013-14",
+      "tuition_type": "2 Year Current",
+      "tuition_cost": 23870
+    },
+    {
+      "type": "Private",
+      "year": "2014-15",
+      "tuition_type": "All Constant",
+      "tuition_cost": 38367
+    },
+    {
+      "type": "Private",
+      "year": "2014-15",
+      "tuition_type": "4 Year Constant",
+      "tuition_cost": 38947
+    },
+    {
+      "type": "Private",
+      "year": "2014-15",
+      "tuition_type": "2 Year Constant",
+      "tuition_cost": 24941
+    },
+    {
+      "type": "Private",
+      "year": "2014-15",
+      "tuition_type": "All Current",
+      "tuition_cost": 37422
+    },
+    {
+      "type": "Private",
+      "year": "2014-15",
+      "tuition_type": "4 Year Current",
+      "tuition_cost": 37988
+    },
+    {
+      "type": "Private",
+      "year": "2014-15",
+      "tuition_type": "2 Year Current",
+      "tuition_cost": 24327
+    },
+    {
+      "type": "Private",
+      "year": "2015-16",
+      "tuition_type": "All Constant",
+      "tuition_cost": 39734
+    },
+    {
+      "type": "Private",
+      "year": "2015-16",
+      "tuition_type": "4 Year Constant",
+      "tuition_cost": 40261
+    },
+    {
+      "type": "Private",
+      "year": "2015-16",
+      "tuition_type": "2 Year Constant",
+      "tuition_cost": 24824
+    },
+    {
+      "type": "Private",
+      "year": "2015-16",
+      "tuition_type": "All Current",
+      "tuition_cost": 39016
+    },
+    {
+      "type": "Private",
+      "year": "2015-16",
+      "tuition_type": "4 Year Current",
+      "tuition_cost": 39534
+    },
+    {
+      "type": "Private",
+      "year": "2015-16",
+      "tuition_type": "2 Year Current",
+      "tuition_cost": 24375
+    },
+    {
+      "type": "Private",
+      "year": "2016-17",
+      "tuition_type": "All Constant",
+      "tuition_cost": 40925
+    },
+    {
+      "type": "Private",
+      "year": "2016-17",
+      "tuition_type": "4 Year Constant",
+      "tuition_cost": 41468
+    },
+    {
+      "type": "Private",
+      "year": "2016-17",
+      "tuition_type": "2 Year Constant",
+      "tuition_cost": 24882
+    },
+    {
+      "type": "Private",
+      "year": "2016-17",
+      "tuition_type": "All Current",
+      "tuition_cost": 40925
+    },
+    {
+      "type": "Private",
+      "year": "2016-17",
+      "tuition_type": "4 Year Current",
+      "tuition_cost": 41468
+    },
+    {
+      "type": "Private",
+      "year": "2016-17",
+      "tuition_type": "2 Year Current",
+      "tuition_cost": 24882
+    }
+  ]
